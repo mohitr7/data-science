@@ -6,6 +6,10 @@ List of Competitions:
 
 
 
+Miscellaneous:
+1) data-augmentation-on-cnn-using-keras: Classifying images into different classes on a very small dataset using Data Augmentation. Applying CNN using Keras on TensorFlow backend. 
+
+
 
 Working on some other datasets as well, will upload them as soon as they are done. 
 
