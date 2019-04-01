@@ -7,7 +7,9 @@ List of Competitions:
 
 
 Miscellaneous:
-1) data-augmentation-on-cnn-using-keras: Classifying images into different classes on a very small dataset using Data Augmentation. Applying CNN using Keras on TensorFlow backend. 
+1) data-augmentation-on-cnn-using-keras: Classifying images into different classes on a very small dataset using Data Augmentation. Applying CNN using Keras on TensorFlow backend. Using Keras in-built functions for Data Augmentation. 
+
+2) camera-calibration-with-opencv-python: Using OpenCV with Python to perform camera calibration. 
 
 
 
