@@ -13,6 +13,8 @@ Miscellaneous:
 
 3) kaggle-titanic-dataset: Performing binary classification on Kaggle Titanic dataset. Using Random Forest, Logistic Regression, SVM, ANN algorithms. 
 
+4) kaggle-dogs-vs-cats-redux: Performing binary image classification on Kaggle Dogs vs Cats Redux dataset. Using Keras to build a CNN and using Data Augmentation.
+
 
 
 Working on some other datasets as well, will upload them as soon as they are done. 
