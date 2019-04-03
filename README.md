@@ -11,6 +11,8 @@ Miscellaneous:
 
 2) camera-calibration-with-opencv-python: Using OpenCV with Python to perform camera calibration. 
 
+3) kaggle-titanic-dataset: Performing binary classification on Kaggle Titanic dataset. Using Random Forest, Logistic Regression, SVM, ANN algorithms. 
+
 
 
 Working on some other datasets as well, will upload them as soon as they are done. 
