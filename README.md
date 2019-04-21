@@ -1,5 +1,6 @@
 # data-science 
-My take on various Data Science Competitions. Performing Data Processing, Data Analysis, and creating Machine Learning models to make predictions on real world datasets. Demonstrating Feature Engineering i.e. feature selection and feature extraction. 
+My take on various Data Science Competitions/Hackathons. Performing Data Preprocessing, Data Analysis, and creating Machine Learning models to make predictions on real world datasets. Applying Feature Engineering, Deep Learning, Ensemble Learning.
+Using scikit-learn for ML, Keras with TensorFlow backend for Deep Learning.
 
 List of Machine Learning Competitions/Hackathons:
 1) predicting-flight-ticket-prices: MachineHack Predicting Flight Ticket Price Hackathon (Got a score of 94.75 on leaderboards with a simple Random Forest algorithm, leader score 95.5) 
