@@ -17,5 +17,7 @@ Miscellaneous ML projects:
 
 
 
+All the datasets uploaded on this repository doesn't belong to me. I have mentioned the name of the source/competition for each dataset in this 'README.md' file. 
+
 Working on some other datasets as well, will upload them as soon as they are done. 
 
