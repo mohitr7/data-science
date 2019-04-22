@@ -1,4 +1,4 @@
-Analytics Vidhya LTFS Data Science FinHack (ML Hackathon) 
+Analytics Vidhya LTFS Data Science FinHack (ML Hackathon): Vehicle Loan Default Prediction 
 
 Total Participants = 5667
 
