@@ -8,4 +8,4 @@
 
 
 
-- The folder **vehicle-loan-default-prediction** contains the code used in the Analytics Vidhya LTFS Data Science FinHack (ML Hackathon): Vehicle Loan Default Prediction Challenge.
+- The folder [**vehicle-loan-default-prediction**](https://github.com/mohitr7/python-ML/tree/master/ltfs-data-science-finhack/vehicle-loan-default-prediction) contains the code used in the Analytics Vidhya LTFS Data Science FinHack (ML Hackathon): Vehicle Loan Default Prediction Challenge.
