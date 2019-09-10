@@ -11,6 +11,11 @@ Using **scikit-learn** for ML, **Keras with TensorFlow backend** for Deep Learni
 ## Miscellaneous ML projects:
 1) [**camera-calibration-with-opencv-python**](https://github.com/mohitr7/python-ML/tree/master/camera-calibration-with-opencv-python): Using OpenCV with Python to perform [camera calibration](https://github.com/mohitr7/python-ML/blob/master/camera-calibration-with-opencv-python/camera_calibration_with_computer_vision.ipynb). 
 
-2) [**kaggle-titanic-dataset**](https://github.com/mohitr7/python-ML/tree/master/kaggle-titanic-dataset): Performing binary classification on **Kaggle Titanic** dataset. Using [Random Forest, Logistic Regression, SVM](https://github.com/mohitr7/python-ML/blob/master/kaggle-titanic-dataset/kaggle_titanic_dataset.ipynb), [ANN](https://github.com/mohitr7/python-ML/blob/master/kaggle-titanic-dataset/kaggle_titanic_dataset_with_ANN.ipynb) algorithms. 
+2) [**kaggle-titanic-dataset**](https://github.com/mohitr7/python-ML/tree/master/kaggle-titanic-dataset): Performing binary classification on **Kaggle Titanic** dataset. <br>
+    Using: 
+    - [Random Forest, Logistic Regression, SVM](https://github.com/mohitr7/python-ML/blob/master/kaggle-titanic-dataset/kaggle_titanic_dataset.ipynb) algorithms.
+  
+    - [ANN](https://github.com/mohitr7/python-ML/blob/master/kaggle-titanic-dataset/kaggle_titanic_dataset_with_ANN.ipynb). 
 
 3) [**kaggle-dogs-vs-cats-redux**](https://github.com/mohitr7/python-ML/tree/master/kaggle-dogs-vs-cats-redux): Performing binary image classification on **Kaggle Dogs vs Cats Redux** dataset. Using Keras to build a [CNN and using Data Augmentation](https://github.com/mohitr7/python-ML/blob/master/kaggle-dogs-vs-cats-redux/kaggle_dogs_vs_cats_redux.ipynb).
+ 
