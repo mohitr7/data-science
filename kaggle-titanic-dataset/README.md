@@ -4,7 +4,7 @@
 - [**kaggle_titanic_dataset_with_ANN.ipynb**](https://github.com/mohitr7/python-ML/blob/master/kaggle-titanic-dataset/kaggle_titanic_dataset_with_ANN.ipynb) file contains the code used to perform **binary classification** on **Kaggle Titanic dataset**, using **ANN**.
 
 
-- **data** folder contains the **train** and **test** sets and the **submission format** file.
+- [**data**](https://github.com/mohitr7/python-ML/tree/master/kaggle-titanic-dataset/data) folder contains the **train** and **test** sets and the **submission format** file.
 <br><br>
 
 ![](https://raw.githubusercontent.com/mohitr7/python-ML/master/images/titanic.jpg)
