@@ -14,7 +14,3 @@ Using **scikit-learn** for ML, **Keras with TensorFlow backend** for Deep Learni
 2) [**kaggle-titanic-dataset**](https://github.com/mohitr7/python-ML/tree/master/kaggle-titanic-dataset): Performing binary classification on **Kaggle Titanic** dataset. Using Random Forest, Logistic Regression, SVM, ANN algorithms. 
 
 3) [**kaggle-dogs-vs-cats-redux**](https://github.com/mohitr7/python-ML/tree/master/kaggle-dogs-vs-cats-redux): Performing binary image classification on **Kaggle Dogs vs Cats Redux** dataset. Using Keras to build a CNN and using Data Augmentation.
-
-<br>
-
-The source/competition for each dataset is mentioned in this 'README.md' file. 
