@@ -4,4 +4,4 @@
 - [**data**](https://github.com/mohitr7/python-ML/tree/master/predicting-flight-ticket-prices/data) folder contains the **train** and **test** datasets.
 <br><br>
 
-![](https://raw.githubusercontent.com/mohitr7/python-ML/master/images/ticket_prices.png)
+<img src="https://raw.githubusercontent.com/mohitr7/python-ML/master/images/ticket_prices.png" height="500px" width="1100px">
