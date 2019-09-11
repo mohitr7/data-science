@@ -1,7 +1,7 @@
 - [**kaggle_titanic_dataset.ipynb**](https://github.com/mohitr7/python-ML/blob/master/kaggle-titanic-dataset/kaggle_titanic_dataset.ipynb) file contains the code used to perform **binary classification** on **[Kaggle](https://www.kaggle.com/) [Titanic](https://www.kaggle.com/c/titanic)** dataset, using **Random Forest**, **Logistic Regression**, **SVM** algorithms.
 
 
-- [**kaggle_titanic_dataset_with_ANN.ipynb**](https://github.com/mohitr7/python-ML/blob/master/kaggle-titanic-dataset/kaggle_titanic_dataset_with_ANN.ipynb) file contains the code used to perform **binary classification** on **[Kaggle](https://www.kaggle.com/) [Titanic](https://www.kaggle.com/c/titanic)** dataset, using **ANN**.
+- [**kaggle_titanic_dataset_with_ANN.ipynb**](https://github.com/mohitr7/python-ML/blob/master/kaggle-titanic-dataset/kaggle_titanic_dataset_with_ANN.ipynb) file contains the code used to perform **binary classification** on **[Kaggle](https://www.kaggle.com/) [Titanic](https://www.kaggle.com/c/titanic)** dataset, using **ANN**. This code was executed on [**Google Colab**](https://colab.research.google.com).
 
 
 - [**data**](https://github.com/mohitr7/python-ML/tree/master/kaggle-titanic-dataset/data) folder contains the **train** and **test** sets and the **submission format** file.
