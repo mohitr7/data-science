@@ -1,6 +1,6 @@
 # python-ML 
 My take on various Data Science Competitions/Hackathons. Performing Data **Preprocessing**, Data **Analysis**, and **creating Machine Learning models** to make **predictions on real world datasets**. Applying **Feature Engineering**, **Deep Learning**, **Ensemble Learning**.
-Using **scikit-learn** for ML, **Keras with TensorFlow backend** for Deep Learning.
+Using [**scikit-learn**](https://scikit-learn.org) for ML, **[Keras](keras.io) with [TensorFlow](https://www.tensorflow.org) backend** for Deep Learning.
 
 ## List of Machine Learning Competitions/Hackathons:
 1) [**predicting-flight-ticket-prices**](https://github.com/mohitr7/python-ML/tree/master/predicting-flight-ticket-prices): **[MachineHack](https://www.machinehack.com) [Predicting Flight Ticket Price Hackathon](https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/)** (Got a score of 94.75 on leaderboards with a simple [Random Forest](https://github.com/mohitr7/python-ML/blob/master/predicting-flight-ticket-prices/predicting_flight_ticket_prices.ipynb) algorithm, leader score 95.5) <br><br>
@@ -23,5 +23,5 @@ Using **scikit-learn** for ML, **Keras with TensorFlow backend** for Deep Learni
     - [ANN](https://github.com/mohitr7/python-ML/blob/master/kaggle-titanic-dataset/kaggle_titanic_dataset_with_ANN.ipynb). <br><br>
 ![](images/titanic.jpg) <br><br>
 
-3) [**kaggle-dogs-vs-cats-redux**](https://github.com/mohitr7/python-ML/tree/master/kaggle-dogs-vs-cats-redux): Performing binary image classification on **[Kaggle](https://www.kaggle.com/) [Dogs vs Cats Redux](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)** dataset. Using Keras to build a [CNN and using Data Augmentation](https://github.com/mohitr7/python-ML/blob/master/kaggle-dogs-vs-cats-redux/kaggle_dogs_vs_cats_redux.ipynb). <br><br>
+3) [**kaggle-dogs-vs-cats-redux**](https://github.com/mohitr7/python-ML/tree/master/kaggle-dogs-vs-cats-redux): Performing binary image classification on **[Kaggle](https://www.kaggle.com/) [Dogs vs Cats Redux](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)** dataset. Using [**Keras**](keras.io) to build a [CNN and using Data Augmentation](https://github.com/mohitr7/python-ML/blob/master/kaggle-dogs-vs-cats-redux/kaggle_dogs_vs_cats_redux.ipynb). <br><br>
  ![](images/dogs_vs_cats.gif)
