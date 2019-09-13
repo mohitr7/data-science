@@ -28,12 +28,12 @@ Using [**scikit-learn**](https://scikit-learn.org) for ML, **[Keras](keras.io) w
   
  <br>
  
- - If the **notebooks don't render** in **github**, **ope**n them **using** [**nbviewer**](https://nbviewer.jupyter.org/).
+- If the **notebooks don't render** in **github**, **ope**n them **using** [**nbviewer**](https://nbviewer.jupyter.org/).
  
-   - **Open** the **notebook in github**.
+  - **Open** the **notebook in github**.
    
-   - **Copy** the **page URL**.
+  - **Copy** the **page URL**.
    
-   - **Paste** the **URL in** [**nbviewer**](https://nbviewer.jupyter.org/).
+  - **Paste** the **URL in** [**nbviewer**](https://nbviewer.jupyter.org/).
    
-   - **Click** on **Go**. Notebook will open in [**nbviewer**](https://nbviewer.jupyter.org/).
+  - **Click** on **Go**. Notebook will open in [**nbviewer**](https://nbviewer.jupyter.org/).
