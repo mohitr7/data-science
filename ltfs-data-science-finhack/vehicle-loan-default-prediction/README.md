@@ -8,3 +8,15 @@
 <br><br>
 
 ![](https://raw.githubusercontent.com/mohitr7/python-ML/master/images/ltfs_finhack.png)
+  
+ <br>
+ 
+- If the **notebook doesn't render** in **github**, **open** it **using** [**nbviewer**](https://nbviewer.jupyter.org/).
+ 
+  - **Open** the **notebook in github**.
+   
+  - **Copy** the **page URL**.
+   
+  - **Paste** the **URL in** [**nbviewer**](https://nbviewer.jupyter.org/).
+   
+  - **Click** on **Go**. **Notebook** will **open** in [**nbviewer**](https://nbviewer.jupyter.org/).
