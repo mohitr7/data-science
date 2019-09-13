@@ -9,4 +9,16 @@
 
 <p align="center"><strong>Calibration result</strong>:  <br><br>
 <img src="https://raw.githubusercontent.com/mohitr7/python-ML/master/camera-calibration-with-opencv-python/data/calibresult.png" alt="calibration_result"> 
-</p> <br><br>
+</p>
+  
+ <br>
+ 
+- If the **notebooks don't render** in **github**, **ope**n them **using** [**nbviewer**](https://nbviewer.jupyter.org/).
+ 
+  - **Open** the **notebook in github**.
+   
+  - **Copy** the **page URL**.
+   
+  - **Paste** the **URL in** [**nbviewer**](https://nbviewer.jupyter.org/).
+   
+  - **Click** on **Go**. Notebook will open in [**nbviewer**](https://nbviewer.jupyter.org/).
