@@ -25,3 +25,15 @@ Using [**scikit-learn**](https://scikit-learn.org) for ML, **[Keras](keras.io) w
 
 3) [**kaggle-dogs-vs-cats-redux**](https://github.com/mohitr7/python-ML/tree/master/kaggle-dogs-vs-cats-redux): Performing binary image classification on **[Kaggle](https://www.kaggle.com/) [Dogs vs Cats Redux](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)** dataset. Using [**Keras**](keras.io) to build a [CNN and using Data Augmentation](https://github.com/mohitr7/python-ML/blob/master/kaggle-dogs-vs-cats-redux/kaggle_dogs_vs_cats_redux.ipynb). <br><br>
  ![](images/dogs_vs_cats.gif)
+  
+ <br>
+ 
+ - If the **notebooks don't render** in **github**, **ope**n them **using** [**nbviewer**](https://nbviewer.jupyter.org/).
+ 
+   - **Open** the **notebook in github**.
+   
+   - **Copy** the **page URL**.
+   
+   - **Paste** the **URL in** [**nbviewer**](https://nbviewer.jupyter.org/).
+   
+   - **Click** on **Go**. Notebook will open in [**nbviewer**](https://nbviewer.jupyter.org/).
