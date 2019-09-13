@@ -13,7 +13,7 @@
   
  <br>
  
-- If the **notebooks don't render** in **github**, **ope**n them **using** [**nbviewer**](https://nbviewer.jupyter.org/).
+- If the **notebook doesn't render** in **github**, **open** it **using** [**nbviewer**](https://nbviewer.jupyter.org/).
  
   - **Open** the **notebook in github**.
    
@@ -21,4 +21,4 @@
    
   - **Paste** the **URL in** [**nbviewer**](https://nbviewer.jupyter.org/).
    
-  - **Click** on **Go**. Notebook will open in [**nbviewer**](https://nbviewer.jupyter.org/).
+  - **Click** on **Go**. **Notebook** will **open** in [**nbviewer**](https://nbviewer.jupyter.org/).
